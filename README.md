@@ -5,3 +5,4 @@ contributing by user viorel
 Test from phpstorm
 Get to phpstorm
 <p>Commit phpstorm</p>
+<p>Feature 2</p>
